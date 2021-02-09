@@ -1,4 +1,4 @@
-# pdf-edit
+# pdf-edit (Toy code)
 Capabilities:
   1. Concatenating PDF's together
   2. Converting .jpg to .pdf
